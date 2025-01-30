@@ -158,7 +158,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/Dharsh-29/weather-trend-analysis.git
+git clone https://github.com/Dharsh-29/-PM-Accelerator-mission.git
 Navigate to the project directory:
 
 bash
